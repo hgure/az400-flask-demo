@@ -1,0 +1,18 @@
+-update
+-update
+-Updated README.md
+-update
+-Delete .vscode directory
+-Update .gitignore
+-Update index.html
+-Update README.md
+-updated html
+-Update index.html
+-Update index.html
+-Update README.md
+-Delete README.MD
+-Create README
+-add readme
+-cleanup
+-Removed unnecessary pages
+-Initial Commit
